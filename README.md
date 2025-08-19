@@ -13,7 +13,7 @@
 * [Data Sources](#sources)
 * [Conclusion](#conclusion)
 
-## Tableau Dashboard
+## PowerBI Dashboard
 Link: https://public.tableau.com/views/HumanMigration_16511842170780/Story2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Motivation:
