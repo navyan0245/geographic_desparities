@@ -9,6 +9,7 @@
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normaling-the-data)
+* [Exploratory Analysis](#exploratory-analysis)
 * [Problems and Hurdles](#problems-and-hurdles)
 * [Technologies Used](#technologies-used)
 * [Data Sources](#sources)
