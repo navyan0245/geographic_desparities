@@ -1,4 +1,5 @@
-# Geographic desparities across Tennessee coutny healthcare facilities
+# Are there Geographic Disparities in the Distribution of Licensed Healthcare Facilities across Tennessee Counties?
+
 
 
 
