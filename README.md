@@ -6,6 +6,7 @@
 
 ## Table of Contents
 * [Summary](#Summary)
+* [View Presentation](#view-presentation)
 * [PowerBI Dashboard](#PowerBI-Dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
@@ -20,6 +21,8 @@
 This project investigates the distribution of licensed healthcare facilities across Tennessee counties and examines how that distribution correlates with factors such as urban vs. rural classification, age demographics, income levels, and racial composition. It also explores patient visit types including inpatient, outpatient, and emergency room visits and provides insights into the healthcare revenue cycle.
 Additional drill-down options allow users to explore each metric by facility type, county, year(2021-2023) and individual facility.
 
+## View Presentation
+https://www.canva.com/design/DAGwdiS6Xo4/pMxTqu-SYyJForUQPwvtBg/edit?utm_content=DAGwdiS6Xo4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## PowerBI Dashboard
 Link: https://app.powerbi.com/view?r=eyJrIjoiYjM5NWE4N2EtMjA1NS00ODdlLWEzZDYtMWFjYmIzZDczMjE3IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=276cb8cb035b7ceab0ce
